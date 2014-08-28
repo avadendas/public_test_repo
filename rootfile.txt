@@ -1,0 +1,2 @@
+I am a file directly underneath the root folder.
+
